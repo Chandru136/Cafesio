@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "858439659955",
+    "firebase_url": "https://cafesio-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cafesio",
+    "storage_bucket": "cafesio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858439659955:android:0d559a4a2c4908d224dbc6",
+        "android_client_info": {
+          "package_name": "com.cafesio.kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858439659955-2i59f0kamvha2b4eqcrjs9bml5f3pqpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhxwXPBpEXWmLYXD4kX2iCh-Hql-lNrno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858439659955-2i59f0kamvha2b4eqcrjs9bml5f3pqpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858439659955-6fsorf121jpl77fek7tlmklou7b038v3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cafesio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858439659955:android:dfd2241ba53b598424dbc6",
+        "android_client_info": {
+          "package_name": "com.example.cafesio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858439659955-ap5tmhlndgunvsc1u3sfid2k8c6luvtd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cafesio",
+            "certificate_hash": "32e044b4175cfd69e9c9fb31c86c8b005e302be2"
+          }
+        },
+        {
+          "client_id": "858439659955-2i59f0kamvha2b4eqcrjs9bml5f3pqpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhxwXPBpEXWmLYXD4kX2iCh-Hql-lNrno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858439659955-2i59f0kamvha2b4eqcrjs9bml5f3pqpf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858439659955-6fsorf121jpl77fek7tlmklou7b038v3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cafesio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
